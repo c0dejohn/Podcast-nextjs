@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.copyWithSyntaxHighlighting": false
+}
